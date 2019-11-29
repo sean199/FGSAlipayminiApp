@@ -1,0 +1,8 @@
+<!-- 小程序收藏组件，更多高级用法请参考文档：https://docs.alipay.com/mini/component/component-favorite -->
+<view>
+<view style="margin-top:90px;position:absolute">
+  <view><text class="title">欢迎来到</text></view>
+<view><text style="font-size:0.8rem;color:white;margin-left:3">Fligth Global Studio</text></view>
+</view>
+<button size="default" type="primary" class="aboutButton">About</button>
+</view>

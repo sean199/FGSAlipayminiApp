@@ -1,0 +1,18 @@
+page {
+  background: #f7f7f7;
+  background-image: url('../../assets/background/homepage.png');
+}
+.aboutButton{
+  width: 80%;
+  margin-left: 10%;
+  margin-right:10%;
+  margin-top: 120%;
+  position: absolute;
+  background-color: orange
+}
+.title{
+  margin-left: 22%;
+  margin-right:20%;
+  color: white;
+  font-size: 1rem;
+}
